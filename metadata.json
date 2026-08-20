@@ -1,0 +1,6 @@
+{
+  "name": "Iris VoiceLab",
+  "description": "Real-time conversational voice assistant with Groq ultra-fast inference, ElevenLabs neural TTS, custom Voice ID selection, and Gemini multimodality. Developed by Dr Fendi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
